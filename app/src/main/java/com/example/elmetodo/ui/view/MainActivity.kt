@@ -303,6 +303,7 @@ class MainActivity : AppCompatActivity(), StatisticDialog, DistributeInterface {
                 statistics.time.toString()
             )
         )
+
         for (i in 1..5) {
             outState.putDoubleArray("serie$i", selectSerie(i).toDoubleArray())
         }
