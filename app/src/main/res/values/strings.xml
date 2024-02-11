@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">El metodo</string>
+
+    <string name="victories">Victories</string>
+    <string name="defeats">Defeats</string>
+    <string name="draws">Draws</string>
+
+    <string name="win">Win</string>
+    <string name="lose">Lose</string>
+    <string name="tie">Draw</string>
+
+    <string name="actual_statistics">In game statistics</string>
+    <string name="general_statistics">General statistics</string>
+    <string name="statistics">Statistics</string>
+    <string name="show_series">Show series</string>
+    <string name="show_bets">Show bets</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+
+    <string name="distribute_title">Build new series</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
